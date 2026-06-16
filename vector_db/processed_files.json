@@ -1,0 +1,30 @@
+{
+  "D:\\PARAM\\simple_RAG\\data\\AI Foundations_3_06.pdf": {
+    "filename": "AI Foundations_3_06.pdf",
+    "filepath": "D:\\PARAM\\simple_RAG\\data\\AI Foundations_3_06.pdf",
+    "file_hash": "503e0fed4d3cfd01d258fc748c7fb2f1",
+    "last_processed_time": "2026-06-12T11:32:37.151636+00:00",
+    "chunk_count": 119
+  },
+  "D:\\PARAM\\simple_RAG\\data\\sample-tables.pdf": {
+    "filename": "sample-tables.pdf",
+    "filepath": "D:\\PARAM\\simple_RAG\\data\\sample-tables.pdf",
+    "file_hash": "9e2ed914a55deb277d51fc5c0927e8a0",
+    "last_processed_time": "2026-06-12T11:32:43.045928+00:00",
+    "chunk_count": 16
+  },
+  "D:\\PARAM\\simple_RAG\\data\\_OceanofPDF.com_Python_Tricks_-_Dan_bader.pdf": {
+    "filename": "_OceanofPDF.com_Python_Tricks_-_Dan_bader.pdf",
+    "filepath": "D:\\PARAM\\simple_RAG\\data\\_OceanofPDF.com_Python_Tricks_-_Dan_bader.pdf",
+    "file_hash": "f1b5c483e47636180395c1a58b6a1bdf",
+    "last_processed_time": "2026-06-12T11:40:31.081930+00:00",
+    "chunk_count": 396
+  },
+  "D:\\PARAM\\simple_RAG\\data\\ast_sci_data_tables_sample.pdf": {
+    "filename": "ast_sci_data_tables_sample.pdf",
+    "filepath": "D:\\PARAM\\simple_RAG\\data\\ast_sci_data_tables_sample.pdf",
+    "file_hash": "3a8bb63646bb00909db0287bf2189e13",
+    "last_processed_time": "2026-06-15T05:17:07.088342+00:00",
+    "chunk_count": 6
+  }
+}

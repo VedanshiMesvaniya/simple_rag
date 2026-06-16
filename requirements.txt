@@ -1,0 +1,6 @@
+chromadb
+requests
+streamlit
+psutil
+PyMuPDF
+pdfplumber
