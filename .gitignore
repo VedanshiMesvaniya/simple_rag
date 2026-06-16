@@ -1,4 +1,5 @@
+.gitignore
 env/
 .streamlit/
-
+__pycache__/
 logs/
