@@ -1,5 +1,28 @@
-.gitignore
+# Virtual environments
 env/
+venv/
+.venv/
+
+# Streamlit
 .streamlit/
+
+# Python
 __pycache__/
+*.py[cod]
+
+# Logs
 logs/
+*.log
+
+# Environment variables
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
