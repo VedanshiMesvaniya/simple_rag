@@ -23,8 +23,8 @@ pip install -r requirements.txt
 
 ```bash
 ollama serve
-ollama pull nomic-embed-text:latest
-ollama pull gemma3:4b
+ollama pull bge-m3:latest
+ollama pull llama3.1:8b
 ```
 
 4. Put your PDF files in `data/`.
