@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Simple Local RAG POC
 
 This is a small local RAG proof of concept based on the working reference project.
@@ -27,7 +27,7 @@ ollama pull bge-m3:latest
 ollama pull llama3.1:8b
 ```
 
-4. Put your PDF files in `data/`.
+4. Make directory `data/` and Put your PDF files in `data/`.
 
 ## Run
 
