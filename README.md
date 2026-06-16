@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Simple Local RAG POC
 
 This is a small local RAG proof of concept based on the working reference project.
@@ -70,3 +71,7 @@ The Streamlit interface includes:
 - browse and reload chat history from saved Q&A logs
 - document upload and auto-ingest
 - compact answer metadata and source filenames
+=======
+# simple_rag
+Simple RAG chatbot
+>>>>>>> 19d5094e886286cacc2ad8343fcd8027c849e182
